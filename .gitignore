@@ -1,0 +1,58 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+*.egg-info/
+
+# Virtual environments
+/.venv/
+venv/
+env/
+ENV/
+
+# Build & packaging
+/build/
+/dist/
+/.eggs/
+
+
+# Temporary runtime files (recreated each run)
+/temp_live.pcap
+/src/temp_live.csv
+/src/temp_live.pcap
+*.joblib
+
+# Runtime-generated live traffic files (auto-created by sniffer/live_bridge)
+data/live_captured_traffic.csv
+data/live_captured_traffic.invalid_*.csv
+data/live_captured_traffic.preclean_*.csv
+data/debug_consumer_probe.csv
+test_data/test_columns.csv
+
+# Scratch / test output CSVs
+/scratch/
+
+# IDE / editor settings
+.vscode/
+.idea/
+.claude/
+
+# Streamlit / misc state
+/.streamlit/
+
+# Environment variables
+.env
+
+# Ignore large datasets and models
+*.npy
+*.pkl
+
+binary_models/
+models/
+data/original_csv/
+data/processed_lstm/
+data/processed_ml/
+data/processed_randomforest/
