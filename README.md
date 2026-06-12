@@ -224,7 +224,7 @@ This project implements a production-ready **Network Intrusion Detection System 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/betuldanismaz/Network_Anomaly_Detection.git
+git clone https://github.com/himani-stack/Network-Anomaly-Detection.git
 cd Network_Anomaly_Detection/networkdetection
 
 # 2. Create and activate virtual environment
