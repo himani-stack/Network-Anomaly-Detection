@@ -22,7 +22,7 @@ This project implements a production-ready **Network Intrusion Detection System 
 
 **Models:** Random Forest · XGBoost (GPU) · Decision Tree · BiLSTM · LSTM  
 **Dataset:** [CICIDS 2017](https://www.unb.ca/cic/datasets/ids-2017.html) — 2.83M labeled network flows  
-**Authors:** Betül Danışmaz · Mustafa Emre Bıyık
+**Authors:** himani-stack
 
 ---
 
@@ -225,7 +225,7 @@ This project implements a production-ready **Network Intrusion Detection System 
 ```bash
 # 1. Clone the repository
 git clone https://github.com/himani-stack/Network-Anomaly-Detection.git
-cd Network_Anomaly_Detection/networkdetection
+cd Network-Anomaly-Detection/networkdetection
 
 # 2. Create and activate virtual environment
 python -m venv venv
@@ -732,11 +732,8 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 <div align="center">
 
-**Betül Danışmaz · Mustafa Emre Bıyık**
 
-[GitHub Repository](https://github.com/betuldanismaz/Network_Anomaly_Detection)
 
-[![GitHub Stars](https://img.shields.io/github/stars/betuldanismaz/Network_Anomaly_Detection?style=social)](https://github.com/betuldanismaz/Network_Anomaly_Detection)
-[![GitHub Forks](https://img.shields.io/github/forks/betuldanismaz/Network_Anomaly_Detection?style=social)](https://github.com/betuldanismaz/Network_Anomaly_Detection)
+[)
 
 </div>
